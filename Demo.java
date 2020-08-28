@@ -1,10 +1,8 @@
 public class Demo{
-<<<<<<< Updated upstream
+	public void m2(){
+	}
+
 	//Bug-193 fixed
 	public void m1(){
-=======
-	//Bug-190
-	public void doProcess(){
->>>>>>> Stashed changes
 	}
 }
